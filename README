@@ -1,0 +1,13 @@
+READ ME
+=======
+
+Run q1.py using Python 3.6
+OpenCV-Contrib 3.4.0.14 and Numpy are requirements for the program to run.
+
+Report.pdf is the report for the assignment 4
+Folders 1, 2, 3 contain input images for q1.py as im0.png and im1.png.
+Results contains result images.
+Fundamental matrix is output in the console when the python file is run.
+
+Reference: https://docs.opencv.org/3.4/da/de9/tutorial_py_epipolar_geometry.html
+Dataset: http://vision.middlebury.edu/stereo/data/
